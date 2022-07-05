@@ -1,0 +1,16 @@
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(183, 0, 255, 0.753);
+    color:rgb(94, 255, 0);
+    text-align: center;
+}
+
+ul {
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: cornflowerblue;
+
+}
+
+
